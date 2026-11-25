@@ -17,12 +17,12 @@
             <Insets top="30.0" />
          </VBox.margin>
       </Text>
-      <TextField fx:id="txtNom" prefHeight="50.0" prefWidth="500.0" text="Nombre">
+      <TextField fx:id="txtNom" prefHeight="50.0" prefWidth="500.0" promptText="Nombre">
          <VBox.margin>
             <Insets bottom="10.0" left="50.0" right="50.0" top="40.0" />
          </VBox.margin>
       </TextField>
-      <TextField fx:id="txtEdad" prefHeight="50.0" prefWidth="580.0" text="Edad">
+      <TextField fx:id="txtEdad" prefHeight="50.0" prefWidth="580.0" promptText="Edad">
          <VBox.margin>
             <Insets bottom="10.0" left="50.0" right="50.0" top="10.0" />
          </VBox.margin>
